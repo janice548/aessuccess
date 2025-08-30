@@ -24,6 +24,7 @@
 **Name:** Juidej sedg
 **Email:** shudfh65@gmail.com
 **Website:** [aessuccess.com]
+
 **Bio:** Juidej is an exceptionally talented software engineer with a decade of experience and a master's degree in Computer Science. His profound knowledge of coding, coupled with a rare ability to simplify complex problems, makes him a true master in his field. Known for his kind and helping nature, Juidej is a pillar of the open-source community, regularly contributing to projects and mentoring aspiring developers. His passion lies in building tools that empower others to achieve their full potential.
 
 ## Getting Started
